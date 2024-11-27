@@ -18,12 +18,12 @@
 </p>
 
 <p align="left">
-  <a href="mailto:prucorp23@gmail.com" target="_blank" title="Gmail">
+  <a href="mailto:prucorp23@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/joao-vitor-ferreira-br/" target="_blank" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/joao-vitor-ferreira-br/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-  <a href="https://wa.me/19996827401?text=Ol%C3%A1%2C%20Tudo%20bem%3F%20Encontrei%20seu%20contato%20pelo%20perfil%20do%20Github." target="_blank" title="WhatsApp">
+  <a href="https://wa.me/19996827401?text=Ol%C3%A1%2C%20Tudo%20bem%3F%20Encontrei%20seu%20contato%20pelo%20perfil%20do%20Github." title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
-  <a href="https://instagram.com/joaovitor.jp/" target="_blank" title="Instagram">
+  <a href="https://instagram.com/joaovitor.jp/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
