@@ -5,15 +5,6 @@
   Atualmente trabalho na <strong>Previnity</strong>, um dos principais Bureaus de Dados do país.
 </p>
 
-🚀 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pombaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pombaa&layout=compact&langs_count=6&theme=tokyonight"/>
-  <br/>
-  <img height="180em" src="https://streak-stats.demolab.com/?user=Pombaa&theme=tokyonight"/>
-</div>
-
 <p align="left">
   🦄 <strong>Linguagens &amp; Frameworks:</strong><br>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
