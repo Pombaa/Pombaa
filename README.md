@@ -1,16 +1,16 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá, Meu nome é João sou um <strong>Desenvolvedor Front-End</strong>.<br>
-  Trabalho atualmente na Previnity tanto na parte de criação e manutenção nos sites.
+  Olá, Meu nome é João sou um <strong>Desenvolvedor Full Stack</strong>.<br>
+  Trabalho atualmente na Previnity.
 </p>
 
 <p align="left">
-  🦄 Linguagens: JavaScript, React e PHP.
+  🦄 Linguagens: JavaScript, Node.js, Typescript, React e PHP.
 </p>
 
 <p align="left">
-  💼 Ferramentas: Vscode, APIdog, ArchLinux e Hyprland.
+  💼 Ferramentas: Vscode, APIdog, Docker, ArchLinux BSPWM e Hyprland.
 </p>
 
 <p align="left">
